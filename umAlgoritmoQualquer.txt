@@ -5,5 +5,6 @@
 INICIO
 
 MOSTRE("oi");
+MOSTRE("Um dia possui 1440 minutos, e dormir consome 480 minutos.");
 
 FIM.
