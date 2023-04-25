@@ -1,0 +1,9 @@
+// Um algoritmo qualquer que mostra um oi
+// Lucas Mateus
+// 25/04/2023
+
+INICIO
+
+MOSTRE("oi");
+
+FIM.
