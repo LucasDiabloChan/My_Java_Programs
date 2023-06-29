@@ -5,9 +5,6 @@
 ==> Updated at: 29/06/2023
 */
 
-// Package
-package duke.choice;
-
 // Imports
 import java.util.Random;
 import java.util.Scanner;
