@@ -1,4 +1,5 @@
-# MeusCodigosJava
-Aqui estão todos os meus códigos em java.
+# Algoritmos codificados em Java
 
-Caso queira utilizar, baixe e seja feliz!
+Mantenho meus algoritmos desenvolvidos em Java aqui, sem discriminação.
+
+Caso queira utilizar, clone e seja feliz!
