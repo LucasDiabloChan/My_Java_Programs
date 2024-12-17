@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main{
     private Scanner sc = null;
 
-    public static void main(){
+    public static void main(String[] args){
         List<Funcionario> listaFuncionarios;
         int qtdFuncionarios = 0;
 
